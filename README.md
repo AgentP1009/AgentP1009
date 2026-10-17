@@ -81,8 +81,9 @@ A full-stack personal finance application built with Django REST Framework and R
 ### 📫 Connect With Me
 
 - 🐙 GitHub: [@AgentP1009](https://github.com/AgentP1009)
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: [Add your professional email]
+- 💼 LinkedIn: [www.linkedin.com/in/pilot-lun-1b92502a7]
+- 📧 Email: [pilotlun159@gmail.com]
+- Tryhackme: [https://tryhackme.com/p/HexSpecter0?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=d748322b74c7&utm_source=copy&sharerId=685a9522fbef3632d0efa216]
 
 ---
 
